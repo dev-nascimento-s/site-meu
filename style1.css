@@ -1,0 +1,73 @@
+body{
+  
+    /*background-color: rgb(24, 21, 28);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(165, 244, 8);
+    background: url(https://i.ibb.co/kcrCWgP/NASIONAL-HAMBURGER-DAY-Instagram-Story.jpg)
+    no-repeat center/cover;
+   
+    
+    
+}
+
+input,button{
+    padding: 30px;
+    margin-bottom: 10px;
+    width: -webkit-fill-available;
+    background-color:rgb(132, 194, 8);
+    border-color: bisque;
+    font-size: 15px;
+    border-radius: 9px;
+   
+  }
+
+    button:hover{
+        color: rgb(28, 28, 22);
+        cursor: pointer;
+        background-color: rgb(130, 238, 135);
+        /*border-radius: 9px;*/
+        border: transparent;
+        
+        /*font-size: large;*/
+    }
+
+    input{
+
+        font-size: large;
+        /*border-radius: 9px;*/
+        background-color: aliceblue;
+        border: solid white;
+        /*font-size: large;*/
+        
+    }
+    
+    .clear{
+        color: yellow;
+    }
+
+    span{
+        color: yellow;
+    }
+
+    p{
+      font-size: 19px;
+      font-style: italic;
+      color: rgb(35, 231, 245);
+    }
+    
+    h1{
+        font-style: oblique;
+        color: bisque;
+    }
+
+    h2{
+        font-style: italic;
+    }
+
+    .textp span{
+        color: white;
+        font-style: normal;
+    }
